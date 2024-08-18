@@ -53,6 +53,12 @@
             <version>2.20.52</version>
         </dependency>
 
+        <!-- Kafka Dependency -->
+        <dependency>
+            <groupId>org.springframework.kafka</groupId>
+            <artifactId>spring-kafka</artifactId>
+        </dependency>
+
 
         <dependency>
             <groupId>org.postgresql</groupId>
