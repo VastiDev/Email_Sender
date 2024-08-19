@@ -20,6 +20,17 @@ The **EmailSender API** is designed to send emails using Amazon's Simple Email S
 - **Docker Hub**
 - **CI/CD with GitHub Actions**
 
+![Java](https://img.shields.io/badge/Java-17-blue)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5.4-brightgreen)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-blue)
+![Amazon SES](https://img.shields.io/badge/Amazon%20SES-SES-orange)
+![Kafka](https://img.shields.io/badge/Kafka-2.8.0-red)
+![Docker](https://img.shields.io/badge/Docker-20.10.7-blue)
+![Docker Hub](https://img.shields.io/badge/Docker%20Hub-Repository-blue)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-lightgrey)
+
+![Demo](https://github.com/vastidev/emailsender/raw/main/artificial-intelligence.gif)
+
 ## Setup and Configuration
 
 ### Prerequisites
@@ -48,13 +59,14 @@ The **EmailSender API** is designed to send emails using Amazon's Simple Email S
    ```bash
    docker-compose up -d
 
+
 4. **Build e Execução da Aplicação:**
 
    ```bash
    mvn clean install
    java -jar target/email-sender.jar
 
-## Usage
+### Usage
 
 - **Standalone Email Sending**: The API can send emails independently by posting to the `/sending-email` endpoint.
 - **Kafka Consumer**: The API listens to the Kafka topic `user_registration_topic`. When a new user is registered in the TaskManager microservice, this API sends a welcome email.
