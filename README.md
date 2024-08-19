@@ -40,6 +40,7 @@ The **EmailSender API** is designed to send emails using Amazon's Simple Email S
    git clone https://github.com/yourusername/emailsender.git
    cd emailsender
 
+
 2. **Configure AWS SES:**
   ```properties
   cloud.aws.credentials.access-key=YOUR_AWS_ACCESS_KEY
