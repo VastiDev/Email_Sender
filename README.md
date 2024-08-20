@@ -52,10 +52,10 @@ The **EmailSender API** is designed to send emails using Amazon's Simple Email S
 
 2. **Configure AWS SES:**
    ```bash
-  cloud.aws.credentials.access-key=YOUR_AWS_ACCESS_KEY
-  cloud.aws.credentials.secret-key=YOUR_AWS_SECRET_KEY
-  cloud.aws.region.static=YOUR_AWS_REGION
-
+   cloud.aws.credentials.access-key=YOUR_AWS_ACCESS_KEY
+   cloud.aws.credentials.secret-key=YOUR_AWS_SECRET_KEY
+   cloud.aws.region.static=YOUR_AWS_REGION
+   
 3. **Kafka Configuration:**
    Ensure Kafka is running and accessible on `localhost:9092`. The `docker-compose.yml` file in the project root can be used to start Kafka and Zookeeper containers.
    ```bash
@@ -65,10 +65,6 @@ The **EmailSender API** is designed to send emails using Amazon's Simple Email S
    ```bash
    mvn clean install
    java -jar target/email-sender.jar
-
-
-
-
 
 
   
