@@ -21,7 +21,7 @@ The **EmailSender API** is designed to send emails using Amazon's Simple Email S
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-lightgrey?style=for-the-badge&logo=github-actions)
 
 <p align="center">
-  <img src="https://github.com/VastiDev/Email_Sender/blob/feature/develop/artificial-intelligence.gif?raw=true" alt="Demo" width="800">
+  <img src="https://github.com/VastiDev/Email_Sender/blob/feature/develop/artificial-intelligence.gif?raw=true" alt="Demo" width="600">
 </p>
 
 
