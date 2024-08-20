@@ -23,11 +23,6 @@ The **EmailSender API** is designed to send emails using Amazon's Simple Email S
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Hub](https://img.shields.io/badge/Docker%20Hub-blue?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-lightgrey?style=for-the-badge&logo=github-actions&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Lombok](https://img.shields.io/badge/Lombok-BC0200?style=for-the-badge&logo=lombok&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-
-
 
 
 <p align="center">
