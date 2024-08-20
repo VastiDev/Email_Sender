@@ -13,17 +13,20 @@ The **EmailSender API** is designed to send emails using Amazon's Simple Email S
 
 ## Technologies
 
-![Java](https://img.shields.io/badge/Java-17-blue?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5.4-brightgreen?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-blue?style=for-the-badge&logo=postgresql&logoColor=white)
-![Amazon SES](https://img.shields.io/badge/Amazon%20SES-SES-orange?style=for-the-badge&logo=amazon&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-2.8.0-red?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-20.10.7-blue?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Hub](https://img.shields.io/badge/Docker%20Hub-Repository-blue?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-lightgrey?style=for-the-badge&logo=github-actions&logoColor=white)
+## Technologies
+
+![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-brightgreen?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
+![Amazon SES](https://img.shields.io/badge/Amazon%20SES-orange?style=for-the-badge&logo=amazon&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-red?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Hub](https://img.shields.io/badge/Docker%20Hub-blue?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-lightgrey?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Lombok](https://img.shields.io/badge/Lombok-BC0200?style=for-the-badge&logo=lombok&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+
 
 
 
