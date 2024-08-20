@@ -65,7 +65,3 @@ The **EmailSender API** is designed to send emails using Amazon's Simple Email S
    ```bash
    mvn clean install
    java -jar target/email-sender.jar
-
-
-  
-
