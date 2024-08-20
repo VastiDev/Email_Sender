@@ -51,7 +51,7 @@ The **EmailSender API** is designed to send emails using Amazon's Simple Email S
    cd emailsender
 
 2. **Configure AWS SES:**
-   ```properties
+   ```bash
   cloud.aws.credentials.access-key=YOUR_AWS_ACCESS_KEY
   cloud.aws.credentials.secret-key=YOUR_AWS_SECRET_KEY
   cloud.aws.region.static=YOUR_AWS_REGION
